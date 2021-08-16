@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>c:/DD_mods/BetterShriekerTrinkets/data/</ModDataPath>
+	<Title>Better Shrieker Trinkets</Title>
+	<Language>english</Language>
+	<UpdateDetails>When you update your mod, this is where you would describe your latest changes</UpdateDetails>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Trinkets</Tags>
+		<Tags>Shrieker</Tags>
+	</Tags>
+	<ItemDescription>This is a small mod that buffs all of the Shriekers trinkets by removing the need for low light.</ItemDescription>
+	<PublishedFileId>1501512530</PublishedFileId>
+</project>
+
